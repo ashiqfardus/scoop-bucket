@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ashiqfardus/claude-sessions-sync/releases/download/v0.3.0/claude-sessions-sync_0.3.0_windows_amd64.zip",
+            "bin": [
+                "claude-sessions.exe"
+            ],
+            "hash": "62d408461e6731f293a42cd5fcaae914e54b00138fdf78f93b93c2cd1a3d6ca3"
+        },
+        "arm64": {
+            "url": "https://github.com/ashiqfardus/claude-sessions-sync/releases/download/v0.3.0/claude-sessions-sync_0.3.0_windows_arm64.zip",
+            "bin": [
+                "claude-sessions.exe"
+            ],
+            "hash": "e057d095ed902a037410de46e414b9ed3bdd695050810c6e386526c3400482a7"
+        }
+    },
+    "homepage": "https://github.com/ashiqfardus/claude-sessions-sync",
+    "license": "MIT",
+    "description": "Back up Claude Code conversations and resume them on another computer"
+}
