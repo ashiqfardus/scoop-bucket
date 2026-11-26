@@ -1,19 +1,19 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ashiqfardus/claude-sessions-sync/releases/download/v0.7.0/claude-sessions-sync_0.7.0_windows_amd64.zip",
+            "url": "https://github.com/ashiqfardus/claude-sessions-sync/releases/download/v0.7.1/claude-sessions-sync_0.7.1_windows_amd64.zip",
             "bin": [
                 "claude-sessions.exe"
             ],
-            "hash": "f8d37850a8521a677584050db9aeae3298a6dcaad7692f1cd1da525265d36276"
+            "hash": "3539b15fee08ae03cfe9db1f6b3d360ef6863def78d04c19f707ca2f2ab79ef1"
         },
         "arm64": {
-            "url": "https://github.com/ashiqfardus/claude-sessions-sync/releases/download/v0.7.0/claude-sessions-sync_0.7.0_windows_arm64.zip",
+            "url": "https://github.com/ashiqfardus/claude-sessions-sync/releases/download/v0.7.1/claude-sessions-sync_0.7.1_windows_arm64.zip",
             "bin": [
                 "claude-sessions.exe"
             ],
-            "hash": "91576c95c93c94bf36ffb1ca6533ab20de8da4fe3155a13706b91864e3a31ba5"
+            "hash": "b0e7cbc7e281c6b3836d43cb4dd39be6b2026f93423c08ee6eba0d1b2a271d44"
         }
     },
     "homepage": "https://github.com/ashiqfardus/claude-sessions-sync",
